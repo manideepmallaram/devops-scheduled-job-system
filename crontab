@@ -1,0 +1,1 @@
+* * * * * /app/scripts/backup.sh >> /app/logs/backup.log 2>&1
