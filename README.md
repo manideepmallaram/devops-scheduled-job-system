@@ -19,7 +19,6 @@ The system automatically runs tasks (like backups) at fixed intervals without ma
 - Automated job execution every minute
 - Containerized environment using Docker
 - Log generation and monitoring
-- Simple and reproducible setup
 
 ---
 
