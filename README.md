@@ -1,13 +1,13 @@
 # DevOps Scheduled Job Automation System
 
-## 📌 Overview
+## Overview
 This project demonstrates a containerized scheduled job system using Docker and cron.
 
 The system automatically runs tasks (like backups) at fixed intervals without manual intervention.
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 - Docker
 - Linux (Ubuntu)
 - Cron Scheduler
@@ -15,7 +15,7 @@ The system automatically runs tasks (like backups) at fixed intervals without ma
 
 ---
 
-## 🚀 Features
+##  Features
 - Automated job execution every minute
 - Containerized environment using Docker
 - Log generation and monitoring
@@ -23,7 +23,7 @@ The system automatically runs tasks (like backups) at fixed intervals without ma
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 devops-scheduled-job-system/
 ├── Dockerfile
 ├── scripts/
@@ -33,7 +33,7 @@ devops-scheduled-job-system/
 
 ---
 
-## 🛠️ How to Run
+## How to Run
 
 ### 1. Build Docker Image
 ```bash
